@@ -1,4 +1,4 @@
-ConstruitPiramide
+ConstruirPiramide
 
 Função para construir uma pirâmide utilizando o aprendizado com a linguagem JAVA
 
